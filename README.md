@@ -12,4 +12,16 @@ The texture pack works with all post-combat update Minecraft versions (v1.9.x-1.
 Darker stone-based blocks  
 ![alt text](https://i.imgur.com/wCAyONT.png)  
 
+Sharp-edged fuchsia-colored Inventory  
+![alt text](https://i.imgur.com/Qg1f0kI.png)  
+
+Sharp-edged fuchsia-colored HUD with custom icons    
+![alt text](https://i.imgur.com/4ObF6VG.png)  
+
+The tools and raincoat armor  
+![alt text](https://i.imgur.com/7pQLITN.png) ![alt text](https://i.imgur.com/i9cI3t1.png)  
+
+Raincoat armor on the player  
+![alt text](https://i.imgur.com/nuXRoei.jpg)  
+
 #### More screenshots will be added soon...
